@@ -14,4 +14,4 @@ Find answers to your challenges in the land of github repos hosted by OPEN
 [OPEN-TWITTER](https://twitter.com/upesopen)
 [MERRIAN-WEBSTER](https://www.merriam-webster.com/word-of-the-day)
 
-<!-- This is commented out. -->
+<!-- If Century is what you seek, It is hidden in the Merrian-Webster's word of day description -->
