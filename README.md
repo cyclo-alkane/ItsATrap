@@ -12,4 +12,4 @@ Find answers to your challenges in the land of github repos hosted by OPEN
 [OPEN-LINKEDIN](https://linkedin.com/in/company/UPES-OPEN)
 [OPEN-INSTAGRAM](https://instagram.com/upesopen_)
 [OPEN-TWITTER](https://twitter.com/upesopen)
-[Word of the Day](https://www.merriam-webster.com/word-of-the-day)
+[MERRIAN-WEBSTER](https://www.merriam-webster.com/word-of-the-day)
